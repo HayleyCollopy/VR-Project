@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Rubbish : MonoBehaviour
 {
+    Material mat;
+    Color originalColour;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +16,9 @@ public class Rubbish : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void ChangeColour()
+    {
     }
 }

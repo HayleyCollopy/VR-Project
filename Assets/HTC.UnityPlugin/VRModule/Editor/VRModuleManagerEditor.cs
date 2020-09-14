@@ -392,6 +392,11 @@ namespace HTC.UnityPlugin.VRModuleManagement
         private static bool s_isUpdatingScriptingDefineSymbols = false;
         private static void DoUpdateScriptingDefineSymbols()
         {
+            //These two lines turn off script validation depending on the value of
+            //The VROptions item.
+            if (!VROptions.isEnabled)
+                return;
+
             // some symbolRequirement depends on installed packages (only works when UNITY_2018_1_OR_NEWER)
             Vive.VIUSettingsEditor.PackageManagerHelper.PreparePackageList();
 

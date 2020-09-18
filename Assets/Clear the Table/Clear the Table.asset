@@ -15,4 +15,4 @@ MonoBehaviour:
   gameName: Clean Up!
   gameImage: {fileID: 0}
   instructionText: Clear the Table
-  timeAllowed: 7
+  timeAllowed: 10

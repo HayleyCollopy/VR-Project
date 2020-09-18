@@ -8,7 +8,7 @@ namespace ClearTable
     public class ClearTable : Minigame
     {
         public GameObject go;
-        int targetObjCount = 4;
+        int targetObjCount = 26;
         int objsDetected = 0;
         // Start is called before the first frame update
         void Start()

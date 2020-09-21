@@ -14,7 +14,7 @@ namespace ClearTable
         void Start()
         {
             InitVR();
-            //StartGame(); //comment this out to test without timer
+            StartGame(); //comment this out to test without timer
         }
 
         // Update is called once per frame

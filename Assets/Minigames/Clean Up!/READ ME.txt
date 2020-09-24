@@ -1,0 +1,11 @@
+Hayley Collopy 33421906
+
+This is Clean Up! The goal of this VR MiniGame is to clean up the table! In any means necessary...
+Make sure there are no food items left on the table within the 10 seconds, and you win!
+
+You can be as messy as you want in this VRmini, you could pick up each item individually (which would take a very long time) 
+OR, you could just flip the table, but that's up to the player to figure out. Something I wish I could control was how the objects would interact when the table is being picked up by the player.
+If the player picks up the table too fast, some items on the table will clip into the the table or phase through the surface.
+
+The 3D assets, materials and skybox were created by myself. The only assets I used in this scene that I didn't make were the royalty free wood textures of the floor & tables made by Nomaxim on TurboSquid.
+Royalty Free Wood Textures: https://www.turbosquid.com/FullPreview/Index.cfm/ID/778016

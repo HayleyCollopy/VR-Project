@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Minigames/Clean Up!/Clean Up!.unity
     guid: 423922826b7925849939ec7b05f5b742
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: da24d1185f7ea3e4b820de51288a2681,
+      type: 2}
